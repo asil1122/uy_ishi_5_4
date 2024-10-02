@@ -1,0 +1,53 @@
+.header {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.block {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.left_block {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+
+.text {
+    font-style: italic;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 130%;
+    color: var(--717171);
+    width: 150px;
+}
+
+.right_block {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+
+.kor_block {
+    display: flex;
+    align-items: center;
+    gap: 13px;
+}
+
+
+.tovar {
+    font-style: italic;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 130%;
+    color: var(--717171);
+}
+
+.price {
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 130%;
+    color: var(--0e2149);
+}

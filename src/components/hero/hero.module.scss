@@ -1,0 +1,33 @@
+.hero {
+    background-image: url(../../assets/banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 113px;
+    padding-bottom: 143px;
+}
+
+.title {
+    font-weight: 700;
+    font-size: 52px;
+    color: var(--white);
+    margin-bottom: 32px;
+}
+
+.text {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 130%;
+    color: var(--white);
+    width: 358px;
+    margin-bottom: 50px;
+}
+
+.btn {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 130%;
+    color: var(--white);
+    padding: 12px 50px;
+    background-color: var(--0e2149);
+    border: none;
+}

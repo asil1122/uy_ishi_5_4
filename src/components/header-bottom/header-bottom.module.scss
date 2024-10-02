@@ -1,0 +1,32 @@
+.header_bottom {
+    background-color: var(--0e2149);
+}
+
+.block {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.ul {
+    display: flex;
+    align-items: center;
+    gap: 70px;
+}
+
+.text {
+    font-weight: 700;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: var(--white);
+}
+
+.form {
+    width: 348px;
+}
+
+.input {
+    width: 100%;
+    background-color: #253b6a;
+    padding: 21px 222px 17px 23px;
+}
